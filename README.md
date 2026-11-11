@@ -1,6 +1,6 @@
 # Awesome-Cloud-Native-Data-Resiliency-Platform
 
-# Top Cloud-Native Data Resiliency Platform Ecosystem
+## Top Cloud-Native Data Resiliency Platform Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Cyber Resilience, Immutable Backup & Multi-Cloud Data Protection*  
