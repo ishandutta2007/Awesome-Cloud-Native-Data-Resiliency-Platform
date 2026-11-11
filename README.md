@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Native-Data-Resiliency-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Native-Data-Resiliency-Platform?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Native-Data-Resiliency-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Native-Data-Resiliency-Platform?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Native-Data-Resiliency-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Native-Data-Resiliency-Platform?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Native-Data-Resiliency-Platform/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Cloud-Native-Data-Resiliency-Platform?style=flat-square&logo=github" alt="Open Issues"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Native-Data-Resiliency-Platform/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License"/></a>
@@ -69,7 +69,7 @@ The global data resilience and cloud backup/recovery market is valued at approxi
 
 Ranked by GitHub stargazers count:
 
-| Project | Stars | Description |
+| Project | GitHub_Stars | Description |
 |:---|:---:|:---|
 | 📦 **[Rclone](https://github.com/rclone/rclone)** | [![Stars](https://img.shields.io/github/stars/rclone/rclone?style=social&color=white)](https://github.com/rclone/rclone/stargazers) | "rsync for cloud storage" supporting over 70 cloud object stores, encrypted remotes, chunking, and multi-cloud sync pipelines. |
 | 🔐 **[Restic](https://github.com/restic/restic)** | [![Stars](https://img.shields.io/github/stars/restic/restic?style=social&color=white)](https://github.com/restic/restic/stargazers) | Fast, secure, deduplicated backup program using cryptography. Supports local, SFTP, REST, S3, Azure Blob, and Google Cloud Storage. |
@@ -96,7 +96,7 @@ Ranked by GitHub stargazers count:
 
 1. 🍴 Fork the repository.
 2. ✍️ Add or edit entries in `README.md` (adhering strictly to existing structure and sorting criteria).
-3. 📝 Include: name, hyperlink, star badge (for open-source), 1–2 sentence description, and exact pricing/limits details.
+3. 📝 Include: name, hyperlink, Stars_Badge (for open-source), 1–2 sentence description, and exact pricing/limits details.
 4. 🚀 Submit a PR with a clear, concise explanation.
 
 ⭐ If you find this resource helpful, please star the repository to show support!
